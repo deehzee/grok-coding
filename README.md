@@ -1,0 +1,35 @@
+# Grokking Coding Interviews
+
+Practice for coding interviews from the course "Grokking the Coding Interview"
+by [Design Gurus](designgurus.io) and [Educative](educative.io)
+
+## Coding Patters
+
+0. [warmup](./warmup)
+1. [Two pointers](./two_pointers)
+2. [Fast and slow pointers](./fast_slow_pointers)
+3. [Sliding window](./sliding_window)
+4. [Merge intervals](./merge_intervals)
+5. [In-place reversal of a linked list](./inplace_linkedlist)
+6. [Two heaps](./two_heaps)
+7. [K-way merge](./k_way_merge)
+8. [Top k elements](./top_k_elements)
+9. [Modified binary search](./modified_binary_search)
+10. [Subsets](./subsets)
+11. [Greedy techniques](./greedy)
+12. [Backtracking](./backtracking)
+13. [Dynamic Programming](./dynamic_programming)
+14. [Cyclic sort](./cyclic_sort)
+15. [Topological sort](./topological_sort)
+16. [Matrices](./matrices)
+17. [Stacks](./stacks)
+18. [Graphs](./graphs)
+19. [Tree depth first search](./tree_dfs)
+20. [Tree breadth first search](./tree_bfs)
+21. [Trie](./trie)
+22. [Hash maps](./hashmap)
+23. [Knowing what to track](./track)
+24. [Union find](./unionfind)
+25. [Custom data structures](./custom_ds)
+26. [Bitwise manipulation](./bitwise)
+27. [Multi-threaded](./multithreaded)

@@ -1,4 +1,9 @@
 def three_sum(nums, target):
+    """
+    Given an array of numbers `nums` and a target number `target`, return true
+    if there are three elements in the array `nums` whose sum equals `target`.
+    Return false otherwise.
+    """
     nums = sorted(nums)
     for i, x in enumerate(nums):
         left, right = i + 1, len(nums) - 1

@@ -5,7 +5,7 @@ by [Design Gurus](designgurus.io) and [Educative](educative.io)
 
 ## Coding Patters
 
-0. [warmup](./warmup)
+0. [Warmup](./warmup)
 1. [Two pointers](./two_pointers)
 2. [Fast and slow pointers](./fast_slow_pointers)
 3. [Sliding window](./sliding_window)
